@@ -1,0 +1,71 @@
+.logopic {
+  border-radius: 50%;
+  height: 49px;
+  margin-left: 8px;
+  width: 48px;
+}
+.navbar {
+  background-color: black;
+}
+.container-fluid {
+  color: white;
+}
+.navbar-nav {
+  color: white;
+}
+.nav-link li a {
+  color: white;
+}
+.nav-item {
+  color: white;
+}
+#nav-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  color: white;
+}
+.navbar {
+  background-image: linear-gradient(to right, #a517ba, #5f1782);
+  padding: 0;
+}
+.navbar-nav li {
+  padding: 0 10px;
+}
+.navbar-nav li a {
+  font-weight: 600;
+  float: right;
+  text-align: left;
+}
+.fa-bars {
+  color: #fff;
+  font-size: 30px;
+}
+.navbar-toggler {
+  outline: none;
+}
+#banner {
+  background-image: linear-gradient(to right, #a517ba, #5f1782);
+  color: white;
+}
+.main_title {
+  margin-top: 15px;
+  padding: 15px;
+  margin-left: -15px;
+}
+.sub_title {
+  color: whitesmoke;
+  font-size: 15px;
+}
+#footer {
+  background-image: linear-gradient(to right, #a517ba, #5f1782);
+  color: #fff;
+}
+.footer-box {
+  padding: 20px;
+}
+.footer-box img {
+  width: 120px;
+  margin-bottom: 20px;
+  border-radius: 100%;
+}

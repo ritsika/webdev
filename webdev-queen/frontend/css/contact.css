@@ -1,0 +1,113 @@
+body {
+  background-image: url(background.png);
+  background-color: #a517ba;
+  background-blend-mode: screen;
+}
+.logopic {
+  border-radius: 50%;
+  height: 49px;
+  margin-left: 8px;
+  width: 48px;
+}
+.navbar {
+  background-color: black;
+}
+.container-fluid {
+  color: white;
+}
+.navbar-nav {
+  color: white;
+}
+.nav-link li a {
+  color: white;
+}
+.nav-item {
+  color: white;
+}
+#nav-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  color: white;
+}
+.navbar {
+  background-image: linear-gradient(to right, #a517ba, #5f1782);
+  padding: 0;
+}
+.navbar-nav li {
+  padding: 0 10px;
+}
+.navbar-nav li a {
+  font-weight: 600;
+  float: right;
+  text-align: left;
+}
+.fa-bars {
+  color: #fff;
+  font-size: 30px;
+}
+.navbar-toggler {
+  outline: none;
+}
+#footer {
+  background-image: linear-gradient(to right, #a517ba, #5f1782);
+  color: #fff;
+}
+.footer-box {
+  padding: 20px;
+}
+.footer-box img {
+  width: 120px;
+  margin-bottom: 20px;
+  border-radius: 100%;
+}
+.contactimg {
+  width: 450px;
+  border-radius: 20px;
+}
+.btn a {
+  text-decoration: none;
+  color: white;
+}
+.logopic {
+  border-radius: 50%;
+  height: 49px;
+  margin-left: 8px;
+  width: 48px;
+}
+form {
+  margin-left: 150px;
+  margin-right: 150px;
+  transition: all 4s ease-in-out;
+}
+.form-control {
+  width: 600px;
+  background: transparent;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid gray;
+  font-size: 18px;
+  margin-bottom: 16px;
+  padding-top: 0 px;
+}
+input {
+  height: 45px;
+}
+
+.form-control.submit {
+  background-image: linear-gradient(to right, #a517ba, #5f1782);
+  color: white;
+
+  border-color: transparent;
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  height: 50px;
+  margin-top: 20px;
+}
+
+.form-control.submit:hover {
+  background-color: #f44336;
+  border-radius: 10%;
+  cursor: pointer;
+}

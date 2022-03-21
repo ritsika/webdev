@@ -1,0 +1,83 @@
+.carousel-item {
+  height: 100vh;
+  min-height: 300px;
+  background: center center scroll;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+.carousel-caption h5 {
+  font-size: 45px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-family: merienda;
+  margin-bottom: 50px;
+  color: black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.carousel-caption h6 {
+  font-size: 45px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-family: merienda;
+  margin-bottom: 25px;
+  color: black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.carousel-caption p {
+  width: 80%;
+  font-size: 18px;
+  line-height: 1.5;
+  font-family: poppins;
+  color: black;
+  margin: auto;
+  margin-bottom: 90px;
+}
+
+
+
+.logopic {
+  border-radius: 50%;
+  height: 49px;
+  margin-left: 8px;
+  width: 48px;
+  margin-top: 10px;
+}
+.navbar {
+  background-color: black;
+}
+.container-fluid {
+  color: white;
+}
+.navbar-nav {
+  color: white;
+}
+.nav-link li a {
+  color: white;
+}
+.nav-item {
+  color: white;
+}
+#nav-bar {
+  position: sticky;
+  top: 0;
+  color: white;
+  z-index: 10;
+  height: 80px;
+  background: linear-gradient(to right, #a517ba, #5f1782);
+}
+.navbar {
+  background-image: linear-gradient(to right, #a517ba, #5f1782);
+  padding: 0;
+}
+.navbar-nav li {
+  padding: 0 10px;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+.navbar-nav li a {
+  font-weight: 600;
+  float: right;
+  text-align: left;
+}
